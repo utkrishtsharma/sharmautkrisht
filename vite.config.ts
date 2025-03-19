@@ -14,7 +14,7 @@ export default defineConfig(({ mode }) => ({
   // Use the repository name as the base path if deploying to GitHub Pages
   // e.g., if your repo is named 'portfolio', set base to '/portfolio/'
   // Change this to match your repository name or remove if deploying to custom domain
-  base: '/sci-fi-portfolio-makeover/',
+  base: '/sharmautkrisht/',
   plugins: [
     react(),
     mode === 'development' &&
